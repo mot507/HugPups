@@ -4,41 +4,41 @@
     "age": 4,
     "breed": "Mastiff",
     "temperament": "Calm, Gentle, Protective",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "https://images.pexels.com/photos/12756410/pexels-photo-12756410.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "name": "Bella",
     "age": 3,
     "breed": "Golden Retriever",
     "temperament": "Friendly, Loyal, Playful",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "https://images.pexels.com/photos/2408649/pexels-photo-2408649.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "name": "Max",
     "age": 5,
     "breed": "Labrador Retriever",
     "temperament": "Affectionate, Energetic, Patient",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "https://images.pexels.com/photos/28683174/pexels-photo-28683174/free-photo-of-happy-labrador-retriever-portrait-in-tunisia.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "name": "Charlie",
     "age": 2,
     "breed": "Cocker Spaniel",
     "temperament": "Gentle, Loving, Alert",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "https://images.pexels.com/photos/21952862/pexels-photo-21952862/free-photo-of-spaniel-dog-with-long-ears.jpeg?auto=compress&cs=tinysrgb&w=300"
   },
   {
     "name": "Lucy",
     "age": 6,
     "breed": "Bernese Mountain Dog",
     "temperament": "Calm, Patient, Affectionate",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "https://images.pexels.com/photos/20410992/pexels-photo-20410992/free-photo-of-bernese-mountain-dog-in-alps.jpeg?auto=compress&cs=tinysrgb&w=300"
   },
   {
     "name": "Daisy",
     "age": 4,
     "breed": "Cavalier King Charles Spaniel",
     "temperament": "Friendly, Quiet, Adaptable",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "https://www.pexels.com/photo/selective-focus-photography-of-spaniel-dog-on-grass-2769563/"
   }
 ]
